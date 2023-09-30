@@ -1,0 +1,9 @@
+# User defined files
+.DS_Store
+*.swp
+*.*.swp
+
+# FreeCAD
+*.FCBak
+
+# Private projects below
