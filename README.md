@@ -27,6 +27,7 @@ Options:
 -h                      Show help information.
 -n      (required)      Name of the new project to create.
 -d      (optional)      Description of the new project. Requires quotations.
+-p      (optional)      Private model, won't be added to git
 ```
 
 ### Directory Structure
